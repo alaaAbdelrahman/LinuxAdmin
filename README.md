@@ -65,12 +65,12 @@
 
 - [08-Storage-in-Linux](docs/08-Storage-in-Linux)
 
-  - [01-Where's-my-Storage](docs/08-Storage-in-Linux/01-Intro.md)
+  - [01-Intro](docs/08-Storage-in-Linux/01-Intro.md)
   - [02-Storage-Basics](docs/08-Storage-in-Linux/02-Storage-Basics.md)
   - [03-File-System-in-Linux](docs/08-Storage-in-Linux/03-File-System-in-Linux.md)
   - [04-DAS-NAS-and-SAN](docs/08-Storage-in-Linux/04-DAS-NAS-and-SAN.md)
   - [05-LVM](docs/08-Storage-in-Linux/05-LVM.md)
-  - [06-Project-Status-Meeting](docs/08-Storage-in-Linux/06-Project-Status-Meeting.md)
+  - [06-Notes](docs/08-Storage-in-Linux/06-Notes.md)
 
 - [09-Service-management-with-SYSTEMD](docs/09-Service-management-with-SYSTEMD)
 

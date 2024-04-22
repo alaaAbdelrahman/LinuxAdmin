@@ -29,6 +29,3 @@
     [~]$ exportfs -o 10.61.35.201:/software/repos
     ```
   
-# HANDS-ON LABS
-
-  - Lets had over to the [NFS LABS](https://kodekloud.com/courses/873064/lectures/17311763)

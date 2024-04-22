@@ -233,5 +233,4 @@
     sudo systemctl start mercury
     ```
 
-    </details>
-1.  Information only - browse the running application!
+    

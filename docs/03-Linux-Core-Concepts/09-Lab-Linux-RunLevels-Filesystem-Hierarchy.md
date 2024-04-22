@@ -1,6 +1,5 @@
 # Lab - Linux Runlevels and Filesystem Hierarchy 
      
-- Access Hands-On Labs here [Hands-On Labs](https://kodekloud.com/topic/lab-linux-kernel-modules-boot-and-filetypes/)
 
 To run commands that need **`sudo`**(super-user) privilages. Run **`sudo`**
 ```

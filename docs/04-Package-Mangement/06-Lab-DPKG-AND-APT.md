@@ -1,6 +1,5 @@
 # Lab - DPKG and APT
 
-- Access Hands-On Labs here [Hands-On Labs](https://kodekloud.com/topic/lab-dpkg-and-apt-2/)
 
 Package managers that you use on a debian based distro
 ```

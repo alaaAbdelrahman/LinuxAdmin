@@ -1,6 +1,5 @@
 # Lab - RPM and YUM
 
-- Access Hands-On Labs here [Hands-On Labs](https://kodekloud.com/topic/lab-yum-and-rpm/)
 
 Which package managers would you use on centos machine
 ```

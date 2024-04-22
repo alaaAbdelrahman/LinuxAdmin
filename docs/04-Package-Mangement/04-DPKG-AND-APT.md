@@ -1,6 +1,5 @@
 # DPKG and APT Package Managers
 
-- Take me to the [Video Tutorial](https://kodekloud.com/topic/dpkg-and-apt/)
 
 In this section, we will look at debian package managers for distributions like **`Ubuntu`**, **`Debian`** and **`PureOS`**.
 - DPKG

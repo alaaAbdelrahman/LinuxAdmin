@@ -14,7 +14,7 @@
   
 - [03-Linux-Core-Concepts](docs/03-Linux-Core-Concepts)
 
-  - [01-Bobs-First-Team-Meeting](docs/03-Linux-Core-Concepts/01-Bobs-first-team-meeting.md)
+  - [01-Bobs-First-Team-Meeting](docs/03-Linux-Core-Concepts/01-Intro.md)
   - [02-The-Linux-Kernel](docs/03-Linux-Core-Concepts/02-The-Linux-Kernel.md)
   - [03-Working-With-Hardware](docs/03-Linux-Core-Concepts/03-Working-with-hardware.md)
   - [04-Lab-Linux-Kernel](docs/03-Linux-Core-Concepts/04-Lab-Linux-Kernel.md)
@@ -37,7 +37,7 @@
 
 - [05-Working-With-Shell-Part-II](docs/05-Working-With-Shell-Part-II)
 
-  - [01-Behind-Schedule(story)](docs/05-Working-With-Shell-Part-II/01-Behind-Schedule(story).md)
+  - [01-Behind-Schedule(story)](docs/05-Working-With-Shell-Part-II/01-Intro.md)
   - [02-File-Compression-and-Archival](docs/05-Working-With-Shell-Part-II/02-File-Compression-and-Archival.md)
   - [03-Searching-For-Files-and-Patterns](docs/05-Working-With-Shell-Part-II/03-Searching-for-files-and-patterns.md)
   - [04-IO-Redirection](docs/05-Working-With-Shell-Part-II/04-IO-Redirection.md)
@@ -47,7 +47,7 @@
 
 - [06-Security-and-File-Permissions](docs/06-Security-and-File-Permissions)
 
-  - [01-The-Security-Incident(story)](docs/06-Security-and-File-Permissions/01-The-Security-Incident(story).md)
+  - [01-The-Security-Incident(story)](docs/06-Security-and-File-Permissions/01-Intro.md)
   - [02-Linux-Accounts](docs/06-Security-and-File-Permissions/02-Linux-Accounts.md)
   - [03-User-Management](docs/06-Security-and-File-Permissions/03-User-Management.md)
   - [04-Access-Control-Files](docs/06-Security-and-File-Permissions/04-Access-Control-Files.md)
@@ -58,14 +58,14 @@
 
 - [07-Networking](docs/07-Networking)
 
-  - [01-The-Network-Issue(story)](docs/07-Networking/01-The-Network-Issue(story).md)
+  - [01-The-Network-Issue(story)](docs/07-Networking/01-Intro.md)
   - [02-DNS](docs/07-Networking/02-DNS.md)
   - [03-Networking-Basics](docs/07-Networking/03-Networking-Basics.md)
   - [04-Troubleshooting](docs/07-Networking/04-Troubleshooting.md)
 
 - [08-Storage-in-Linux](docs/08-Storage-in-Linux)
 
-  - [01-Where's-my-Storage](docs/08-Storage-in-Linux/01-Where's-my-Storage.md)
+  - [01-Where's-my-Storage](docs/08-Storage-in-Linux/01-Intro.md)
   - [02-Storage-Basics](docs/08-Storage-in-Linux/02-Storage-Basics.md)
   - [03-File-System-in-Linux](docs/08-Storage-in-Linux/03-File-System-in-Linux.md)
   - [04-DAS-NAS-and-SAN](docs/08-Storage-in-Linux/04-DAS-NAS-and-SAN.md)
@@ -74,12 +74,12 @@
 
 - [09-Service-management-with-SYSTEMD](docs/09-Service-management-with-SYSTEMD)
 
-  - [01-Working-Overtime-Story](docs/09-Service-management-with-SYSTEMD/01-Working-Overtime-Story.md)
+  - [01-Working-Overtime-Story](docs/09-Service-management-with-SYSTEMD/01-Intro.md)
   - [02-Creating-a-SYSTEMD-Service](docs/09-Service-management-with-SYSTEMD/02-Creating-a-SYSTEMD-Service.md)
   - [03-SYSTEMD-Tools](docs/09-Service-management-with-SYSTEMD/03-SYSTEMD-Tools.md)
 
 - [10-The-Client-Demonstration](docs/10-The-Client-Demonstration)
 
-  - [01-Client-Demonstration-in-Jeopardy!(story)](docs/10-The-Client-Demonstration/01-Client-Demonstration-in-Jeopardy!(story).md)
+  - [01-Intro](docs/10-The-Client-Demonstration/01-Intro.md)
   - [02-Troubleshoot-the-Development-Environment](docs/10-The-Client-Demonstration/02-Troubleshoot-the-Development-Environment.md)
-  - [03-Finale(story)](docs/10-The-Client-Demonstration/03-Finale(story).md)
+  - [03-Finale](docs/10-The-Client-Demonstration/03-Finale.md)

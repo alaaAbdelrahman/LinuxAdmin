@@ -1,10 +1,6 @@
 # Troubleshoot the Development Environment
 
-[Troubleshoot](https://kodekloud.com/topic/lab-troubleshoot-the-development-environment/) the Development Environment
 
-
-1. Information only
-1. Information only
 1.  <details>
     <summary>Copy the file <code>caleston-code.tar.gz</code> from Bob's laptop to Bob's home directory on the webserver <code>devapp01</code></summary>
 
